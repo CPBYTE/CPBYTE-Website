@@ -10,7 +10,7 @@ const Footer = () => {
             <div className="w-full -mx-6 lg:w-2/5">
                 <div className="px-6">
                     <a href="#">
-                        <h1>Newton School Coding Club KIET</h1>
+                        <h1>CPByte</h1>
                     </a>
 
                     <p className="max-w-sm mt-2 text-gray-500 dark:text-gray-400">Join 100+ other tech enthusiast and make best connections in KIET GROUP OF INSTITUTIONS</p>
@@ -20,7 +20,7 @@ const Footer = () => {
             </div>
 
             <div className="mt-6 lg:mt-0 lg:flex-1">
-                <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
+                <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5">
                     <div>
                         <h3 className="text-gray-700 uppercase dark:text-white">About</h3>
                         <Link href="/about" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Message</Link>
@@ -43,9 +43,16 @@ const Footer = () => {
                     </div>
 
                     <div>
+                        <h3 className="text-gray-700 uppercase dark:text-white">Events</h3>
+                        <Link href="/events/workshops" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Workshops</Link>
+                        <Link href="/events/webinars" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Webinars</Link>
+                        <Link href="/events/hackathons" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Hackathons</Link>
+                    </div>
+
+                    <div>
                         <h3 className="text-gray-700 uppercase dark:text-white">Contact</h3>
                         <span className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">+91 8057226016</span>
-                        <span className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">nscckiet@gmail.com</span>
+                        <span className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">cpbyte@gmail.com</span>
                     </div>
                 </div>
             </div>

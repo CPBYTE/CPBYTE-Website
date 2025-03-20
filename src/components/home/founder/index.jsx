@@ -27,7 +27,7 @@ const Founder = () => {
             image: '/founders/adityaTyagi.jpeg',
             linkedin: 'https://www.linkedin.com/in/adityatyagiav/',
             github: 'https://github.com/adityatyagi-av',
-            link:''
+            link: ''
         },
         {
             id: 4,
@@ -36,7 +36,7 @@ const Founder = () => {
             image: '/founders/dhruv.jpeg',
             linkedin: 'https://www.linkedin.com/in/dhruv-gajwani-72346a23b/',
             link: '',
-            github:''
+            github: ''
         },
         {
             id: 5,
@@ -46,14 +46,14 @@ const Founder = () => {
             linkedin: 'https://www.linkedin.com/in/shreyansh-tiwari-6b4976250/',
             github: '',
         },
-         {
+        {
             id: 6,
             name: 'Nikita Jain',
             position: 'Ex- Technical Head',
             image: '/founders/nikita.jpeg',
             linkedin: 'https://www.linkedin.com/in/nikita-jain-975707213/',
             link: '',
-            github:''
+            github: ''
         },
         {
             id: 7,
@@ -62,27 +62,27 @@ const Founder = () => {
             image: '/founders/sparshverma.jpg',
             linkedin: 'https://www.linkedin.com/in/sparshverma094/',
             link: '',
-            github:''
+            github: ''
         },
-         {
+        {
             id: 8,
             name: 'Paras Tiwari',
             position: 'Ex- CP Head',
             image: '/founders/paras.jpeg',
             linkedin: 'https://www.linkedin.com/in/paras-tiwari-3a78a9212/',
             link: '',
-            github:''
+            github: ''
         },
-         {
+        {
             id: 9,
             name: 'Khushi',
             position: 'Ex- Graphics Head',
             image: '/founders/khushiGupta.jpeg',
             linkedin: 'https://www.linkedin.com/in/khushi-gupta-624087271/',
             link: '',
-            github:''
+            github: ''
         },
-         
+
     ];
 
     return (
@@ -99,7 +99,7 @@ const Founder = () => {
                     {
                         FounderMember.map((member) => {
                             return (
-                                <div className="flex flex-col items-center p-8 transition-colors duration-300 transform cursor-pointer group hover:bg-blue-500 rounded-xl">
+                                <div className="flex flex-col items-center p-8 transition-all duration-300 transform cursor-pointer group hover:bg-blue-500 hover:scale-105 hover:shadow-lg rounded-xl">
                                     <img className="object-cover w-32 h-32 rounded-full ring-4 ring-gray-300" src={member.image} alt="" />
 
                                     <h1 className="mt-4 text-2xl font-semibold text-gray-700 capitalize  group-hover:text-white">{member.name}</h1>

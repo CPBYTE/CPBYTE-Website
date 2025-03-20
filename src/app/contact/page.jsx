@@ -3,7 +3,7 @@ import PlayerAnimation from "@/components/player"
 const page = () => {
   return (
     <>
-    <title>Contact to NSCC KIET | Technical Club Of KIET</title>
+    <title>Contact to CPByte | Technical Club Of KIET</title>
     
       <section className="min-h-screen max-w-screen-xl mx-auto bg-white dark:bg-gray-900">
     <div className="container px-6 py-10 mx-auto">
@@ -55,7 +55,7 @@ const page = () => {
                         </svg>
 
                         <span className="mx-2 text-gray-700 truncate w-72 dark:text-gray-400">
-                            NSCC KIET, KIET Group Of Institutions, Ghaziabad
+                            CPByte, KIET Group Of Institutions, Ghaziabad
                         </span>
                     </p>
 

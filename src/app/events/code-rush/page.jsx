@@ -337,7 +337,7 @@ function Page() {
         <p className="lg:text-lg text-sm mb-8 text-gray-600 md:w-1/2 w-full mx-12 sm:mx-8 text-center">
           Get ready to code{" "}
           <span className="bg-gradient-to-r from-green-300 via-blue-500 to-purple-500 bg-clip-text text-transparent font-semibold">
-            NSCC KIET
+            CPByte
           </span>{" "}
           is back with CodeRush 2.0! Unleash your coding potential, compete with
           the best, and win exciting prizes.

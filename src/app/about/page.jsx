@@ -31,7 +31,7 @@ const page = () => {
   return (
     <>
     
-    <title>About NSCC KIET | Technical Club Of KIET</title>
+    <title>About CPByte | Technical Club Of KIET</title>
     
 
     
@@ -41,9 +41,8 @@ const page = () => {
           
           <div className="max-w-xl mb-6">
             <h2 className="max-w-lg mb-6 font-sans text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl sm:leading-none">
-              About {' '}
-              <br className="hidden md:block" />
-              Newton School Coding Club
+              About {<span className="text-blue-700 ">CPByte</span>}
+              
               <span className="inline-block text-deep-purple-accent-400">
               
               </span>
@@ -88,7 +87,7 @@ const page = () => {
         <h2 className="max-w-lg mb-6 font-sans text-3xl font-bold leading-none tracking-tight text-gray-900 sm:text-4xl md:mx-auto">
           <span className="relative inline-block">
            
-            <span className="relative">Activities by NSCC KIET</span>
+            <span className="relative">Activities by {<span className="text-blue-700 ">CPByte</span>}</span>
           </span>{' '}
           
         </h2>
