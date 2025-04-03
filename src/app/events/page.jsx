@@ -5,7 +5,7 @@ function page() {
   return (
     
     <div>
-    <h1 className='text-center text-4xl font-bold mt-8'>Events at <span className='bold text-blue-600'>NSCC</span></h1>
+    <h1 className='text-center text-4xl font-bold mt-8'>Events at <span className='bold text-blue-600'>CPBYTE</span></h1>
     <EventsTable/>
 
 </div>

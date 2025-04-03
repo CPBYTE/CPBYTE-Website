@@ -28,10 +28,10 @@ const Page = () => {
   return (
 
     <>
-    <title>Join NSCC KIET | Technical Club Of KIET</title>
+    <title>Join CPBYTE KIET | Technical Club Of KIET</title>
     <section className="bg-white dark:bg-gray-900 mx-auto max-w-screen-xl">
     <div className="container px-6 py-10 mx-auto">
-        <h1 className="text-2xl font-semibold text-center text-gray-800 capitalize lg:text-3xl dark:text-white"> Join NSCC KIET
+        <h1 className="text-2xl font-semibold text-center text-gray-800 capitalize lg:text-3xl dark:text-white"> Join CPBYTE KIET
         <div className="flex justify-center mx-auto mt-6">
                 <span className="inline-block w-52 h-1 bg-blue-500 rounded-full"></span>
                 <span className="inline-block w-8 h-1 mx-1 bg-blue-500 rounded-full"></span>

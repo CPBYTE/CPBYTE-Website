@@ -15,7 +15,7 @@ const Faq = () => {
                 </div>
 
                 <div>
-                    <h1 className="text-xl font-semibold text-gray-700 ">What is NScc kiet? </h1>
+                    <h1 className="text-xl font-semibold text-gray-700 ">What is CPBYTE kiet? </h1>
 
                     <p className="mt-2 text-sm text-gray-500 ">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident placeat, consequatur eveniet veritatis quos dignissimos beatae dolores exercitationem laboriosam officia magnam atque blanditiis illum doloremque magni ex corrupti tempora quis.
@@ -31,7 +31,7 @@ const Faq = () => {
                 </div>
 
                 <div>
-                    <h1 className="text-xl font-semibold text-gray-700 ">What is NScc kiet?</h1>
+                    <h1 className="text-xl font-semibold text-gray-700 ">What is CPBYTE kiet?</h1>
 
                     <p className="mt-2 text-sm text-gray-500 ">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident placeat, consequatur eveniet veritatis quos dignissimos beatae dolores exercitationem laboriosam officia magnam atque blanditiis illum doloremque magni ex corrupti tempora quis.
@@ -47,7 +47,7 @@ const Faq = () => {
                 </div>
 
                 <div>
-                    <h1 className="text-xl font-semibold text-gray-700 ">What is NScc kiet?</h1>
+                    <h1 className="text-xl font-semibold text-gray-700 ">What is CPBYTE kiet?</h1>
 
                     <p className="mt-2 text-sm text-gray-500 ">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident placeat, consequatur eveniet veritatis quos dignissimos beatae dolores exercitationem laboriosam officia magnam atque blanditiis illum doloremque magni ex corrupti tempora quis.
@@ -63,7 +63,7 @@ const Faq = () => {
                 </div>
 
                 <div>
-                    <h1 className="text-xl font-semibold text-gray-700 ">What is NScc kiet?</h1>
+                    <h1 className="text-xl font-semibold text-gray-700 ">What is CPBYTE kiet?</h1>
 
                     <p className="mt-2 text-sm text-gray-500 ">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident placeat, consequatur eveniet veritatis quos dignissimos beatae dolores exercitationem laboriosam officia magnam atque blanditiis illum doloremque magni ex corrupti tempora quis.
@@ -79,7 +79,7 @@ const Faq = () => {
                 </div>
 
                 <div>
-                    <h1 className="text-xl font-semibold text-gray-700 ">What is NScc kiet?</h1>
+                    <h1 className="text-xl font-semibold text-gray-700 ">What is CPBYTE kiet?</h1>
 
                     <p className="mt-2 text-sm text-gray-500 ">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident placeat, consequatur eveniet veritatis quos dignissimos beatae dolores exercitationem laboriosam officia magnam atque blanditiis illum doloremque magni ex corrupti tempora quis.
@@ -95,7 +95,7 @@ const Faq = () => {
                 </div>
 
                 <div>
-                    <h1 className="text-xl font-semibold text-gray-700 ">What is NScc kiet?</h1>
+                    <h1 className="text-xl font-semibold text-gray-700 ">What is CPBYTE kiet?</h1>
 
                     <p className="mt-2 text-sm text-gray-500 ">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident placeat, consequatur eveniet veritatis quos dignissimos beatae dolores exercitationem laboriosam officia magnam atque blanditiis illum doloremque magni ex corrupti tempora quis.

@@ -35,7 +35,7 @@ const Page = () => {
   return (
 
     <>
-    <title>Web Development Resources NSCC KIET | Technical Club Of KIET</title>
+    <title>Web Development Resources CPBYTE KIET | Technical Club Of KIET</title>
     <section className="bg-white dark:bg-gray-900 mx-auto max-w-screen-xl">
     <div className="container px-6 mx-auto">
         <Heading1 title="Web Resources"/>

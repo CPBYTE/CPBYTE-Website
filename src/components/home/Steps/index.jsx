@@ -30,7 +30,7 @@ export const Step = () => {
                   height="24"
                 />
               </svg>
-              <span className="relative">JOURNEY AT  <span className='text-blue-700'>NSCC KIET</span></span>
+              <span className="relative">JOURNEY AT  <span className='text-blue-700'>CPBYTE KIET</span></span>
             </span>{' '}
             
           </h2>

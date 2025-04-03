@@ -13,7 +13,7 @@ const page = () => {
     },
     {
       id:3,
-      details:'Collaboration with other colleges which are a part of NSCC community.',
+      details:'Collaboration with other colleges which are a part of CPBYTE community.',
     },
     {
       id:4,
@@ -31,7 +31,7 @@ const page = () => {
   return (
     <>
     
-    <title>About NSCC KIET | Technical Club Of KIET</title>
+    <title>About CPBYTE KIET | Technical Club Of KIET</title>
     
 
     
@@ -43,7 +43,7 @@ const page = () => {
             <h2 className="max-w-lg mb-6 font-sans text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl sm:leading-none">
               About {' '}
               <br className="hidden md:block" />
-              Newton School Coding Club
+              CPBYTE
               <span className="inline-block text-deep-purple-accent-400">
               
               </span>
@@ -88,7 +88,7 @@ const page = () => {
         <h2 className="max-w-lg mb-6 font-sans text-3xl font-bold leading-none tracking-tight text-gray-900 sm:text-4xl md:mx-auto">
           <span className="relative inline-block">
            
-            <span className="relative">Activities by NSCC KIET</span>
+            <span className="relative">Activities by CPBYTE KIET</span>
           </span>{' '}
           
         </h2>

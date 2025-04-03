@@ -110,7 +110,7 @@
     
 //   return (
 //     <>
-//     <title>Apply for Android Development Bootcamp of NSCC KIET | Technical Club Of KIET</title>
+//     <title>Apply for Android Development Bootcamp of CPBYTE KIET | Technical Club Of KIET</title>
     
 //     <div className='max-w-screen-sm mx-auto my-5'>
 //     <h2 className="max-w-lg  mx-3 mb-6 font-sans text-3xl  font-bold leading-none tracking-tight text-gray-900 sm:text-4xl ">
@@ -155,7 +155,7 @@
 // <section class="bg-white dark:bg-gray-900 mt-5">
 //     <div class="container flex flex-col items-center px-4 py-12 mx-auto text-center">
 //         <h2 class="max-w-2xl mx-auto text-2xl font-semibold tracking-tight text-gray-800 xl:text-3xl dark:text-white">
-//         Join the <span class="text-blue-500">NSCC KIET</span> Community.
+//         Join the <span class="text-blue-500">CPBYTE KIET</span> Community.
 //         </h2>
 
 //         <p class="max-w-4xl mt-6 text-center text-gray-500 dark:text-gray-300">🚀 Join Our <strong> WhatsApp Community! </strong>
@@ -337,7 +337,7 @@ function Page() {
         <p className="lg:text-lg text-sm mb-8 text-gray-600 md:w-1/2 w-full mx-12 sm:mx-8 text-center">
           Get ready to code{" "}
           <span className="bg-gradient-to-r from-green-300 via-blue-500 to-purple-500 bg-clip-text text-transparent font-semibold">
-            NSCC KIET
+            CPBYTE KIET
           </span>{" "}
           is back with CodeRush 2.0! Unleash your coding potential, compete with
           the best, and win exciting prizes.

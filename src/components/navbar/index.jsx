@@ -49,7 +49,7 @@ export default function App() {
         <NavbarBrand className="mb-1.5">
           <Link href="/">
             <Image
-              src="/nscclogo.png"
+              src="/CPBYTElogo.png"
               width={130}
               height={90}
               className="mt-3"
