@@ -110,7 +110,7 @@ const supabase = createClient(process.env.NEXT_PUBLIC_SUPABASE_URL,process.env.N
     
   return (
     <>
-    <title>Join NSCC KIET | Technical Club Of KIET</title>
+    <title>Join CPBYTE KIET | Technical Club Of KIET</title>
     
     <div className='max-w-screen-sm mx-auto my-5'>
     <h2 className="max-w-lg  mx-3 mb-6 font-sans text-3xl  font-bold leading-none tracking-tight text-gray-900 sm:text-4xl ">

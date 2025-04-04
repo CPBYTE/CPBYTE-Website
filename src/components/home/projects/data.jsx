@@ -102,7 +102,7 @@ const topwebprojects=[
     {
         id:5,
         title:'Choolha Chowka Website',
-        developer:'Team NSCC',
+        developer:'Team CPBYTE',
         projectImage:'projects/web/choolhachowka.png',
         imageUrl:'',
         profileLink:'https://github.com/adityatyagi-av',

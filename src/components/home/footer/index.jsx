@@ -10,7 +10,7 @@ const Footer = () => {
             <div className="w-full -mx-6 lg:w-2/5">
                 <div className="px-6">
                     <a href="#">
-                        <h1>Newton School Coding Club KIET</h1>
+                        <h1>CPBYTE KIET</h1>
                     </a>
 
                     <p className="max-w-sm mt-2 text-gray-500 dark:text-gray-400">Join 100+ other tech enthusiast and make best connections in KIET GROUP OF INSTITUTIONS</p>

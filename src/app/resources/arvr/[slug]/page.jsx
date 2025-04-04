@@ -31,7 +31,7 @@ useEffect( () => {
    
   return (
     <div className="flex mx-auto w-full mt-5 flex-col">
-      <title>AR/VR Resources NSCC KIET | Technical Club Of KIET</title>
+      <title>AR/VR Resources CPBYTE KIET | Technical Club Of KIET</title>
       <Tabs 
         aria-label="Options"
         className="mx-auto"        
