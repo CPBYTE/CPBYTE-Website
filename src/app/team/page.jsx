@@ -1,4 +1,4 @@
-import { Team } from "./2023team"
+import { Team } from "./2025team"
 
 const page = () => {
   return (
