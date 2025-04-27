@@ -70,7 +70,7 @@ const EventsTable = ({ events = [
     participants: "300"
   },
   {
-    id: 5,
+    id: 6,
     name: "Dev 102",
     slug:"Dev 102",
     status: "Completed",
