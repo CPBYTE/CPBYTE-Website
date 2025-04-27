@@ -116,7 +116,7 @@ export const ThirdYear = [
         linkedin: 'https://www.linkedin.com/in/shivani-rajput-b54785232/',
         link: 'https://github.com/shivaniirajput'
     },
-    
+
     {
         id: 6,
         name: 'Vikas Kumar',
@@ -353,4 +353,179 @@ export const SecondYear = [
 
 
 
+]
+
+const WEB = [
+    {
+        id: 1,
+        name: 'Harshit Saini',
+        image: '/new_2ndyear/Harshit.jpg',
+        linkedin: '',
+        github: ''
+    },
+    {
+        id: 2,
+        name: 'Sanvi Pal',
+        image: '/new_2ndyear/Sanvi.jpg',
+        linkedin: '',
+        github: '',
+    },
+    {
+        id: 3,
+        name: 'Sidhant Pandey',
+        image: '/new_2ndyear/Sidhant.jpg',
+        linkedin: '',
+        github: '',
+    },
+    {
+        id: 4,
+        name: 'Harshita Yadav',
+        image: '/new_2ndyear/Harshita.jpg',
+        linkedin: '',
+        github: '',
+    },
+    {
+        id: 5,
+        name: 'Uttakarsh Singh',
+        image: '/new_2ndyear/Uttakarsh.jpg',
+        linkedin: '',
+        github: '',
+    },
+    {
+        id: 6,
+        name: 'Kishan Kumar Gupta',
+        image: '/new_2ndyear/Kishan.jpg',
+        linkedin: '',
+        github: '',
+    }
+]
+
+const ANDROID = [
+    {
+        id: 1,
+        name: 'Rajat Jain',
+        image: '/new_2ndyear/Rajat.jpg',
+        linkedin: '',
+        github: '',
+    },
+    {
+        id: 2,
+        name: 'Yukti Arya',
+        image: '/new_2ndyear/yukti.jpg',
+        linkedin: '',
+        github: '',
+    },
+    {
+        id: 3,
+        name: 'Anurag Kanojiya',
+        image: '/new_2ndyear/Anurag.jpg',
+        linkedin: '',
+        github: '',
+    },
+]
+
+const ML = [
+    {
+        id: 1,
+        name: 'Tanishq Kumar',
+        image: '/new_2ndyear/Tanishq.jpg',
+        linkedin: '',
+        github: '',
+    }
+]
+
+const AR_VR = [
+    {
+        id: 1,
+        name: 'Raj',
+        image: '/new_2ndyear/Raj.jpg',
+        linkedin: '',
+        github: '',
+    }
+]
+
+const UI_UX = [
+    {
+        id: 1,
+        name: 'Neelakshi Kaushik',
+        image: '/new_2ndyear/Neelakshi.jpg',
+        linkedin: '',
+        github: '',
+    }
+]
+
+const Cpp = [
+    {
+        id: 2,
+        name: 'Akshit Panchal',
+        image: '/new_2ndyear/Akshit.jpg',
+        linkedin: '',
+        github: '',
+    },
+    {
+        id: 1,
+        name: 'Praveen Singh',
+        image: '/new_2ndyear/Praveen.jpg',
+        linkedin: '',
+        github: '',
+    },
+
+    {
+        id: 3,
+        name: 'Anmol Kumar',
+        image: '/new_2ndyear/Anmol.jpg',
+        linkedin: '',
+        github: '',
+    },
+    {
+        id: 4,
+        name: 'Shudha Nidhi',
+        image: '/new_2ndyear/Shudha.jpg',
+        linkedin: '',
+        github: '',
+    },
+    {
+        id: 5,
+        name: 'Divyanshi',
+        image: '/new_2ndyear/Divyanshi.jpg',
+        linkedin: '',
+        github: '',
+    }
+]
+
+const JAVA = [
+    {
+        id: 1,
+        name: 'Roushan Srivastav',
+        image: '/new_2ndyear/Roshan.jpg',
+        linkedin: '',
+        github: '',
+    },
+    {
+        id: 2,
+        name: 'Ridhi Sharma',
+        image: '/new_2ndyear/riddhi.jpg',
+        linkedin: '',
+        github: '',
+    },
+    {
+        id: 3,
+        name: 'Shubh Goyal',
+        image: '/new_2ndyear/Shubh.jpg',
+        linkedin: '',
+        github: '',
+    }
+]
+
+export const Tech = [
+    { category: 'WEB', members: WEB },
+    { category: 'ANDROID', members: ANDROID },
+    { category: 'ML', members: ML },
+    { category: 'AR/VR', members: AR_VR },
+    { category: 'UI/UX', members: UI_UX }
+];
+
+export const DSA = [
+    { category: 'C++', members: Cpp },
+    { category: 'JAVA', members: JAVA },
 ]
