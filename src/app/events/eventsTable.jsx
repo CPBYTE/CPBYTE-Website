@@ -16,7 +16,7 @@ const EventsTable = ({ events = [
       title: "Web Development Bootcamp",
       description: "A beginner-friendly bootcamp introducing students to Web Dev, Git & GitHub essentials and Linkedin optimisation"
     },  
-    participants: 100
+    participants: 250
   },
   {
     id: 2,
@@ -29,7 +29,7 @@ const EventsTable = ({ events = [
       title: "UI/UX Design Workshop",
       description: "A workshop on UI/UX design for beginners"
     },
-    participants: "200"
+    participants: "250"
   },
   {
     id: 3,
@@ -42,7 +42,7 @@ const EventsTable = ({ events = [
       title: "React Bootcamp",
       description: "A bootcamp on React for beginners"
     },
-    participants: "150"
+    participants: "250"
   },
   {
     id: 4,
@@ -55,7 +55,7 @@ const EventsTable = ({ events = [
       title: "Web & Android Dev Bootcamp",
       description: "A bootcamp on Web, Android Development and Git & GitHub Essentials for beginners"
     },
-    participants: "100"
+    participants: "400"
   },{
     id: 5,
     name: "Speaker Session",
@@ -80,7 +80,7 @@ const EventsTable = ({ events = [
       title: "Backend Bootcamp",
       description: "Bootcamp on Backend- Springboot, NODEjs, Docker, Git & Github"
     },
-    participants: "150"
+    participants: "400"
   }
 ] }) => {
   // Function to determine status style
