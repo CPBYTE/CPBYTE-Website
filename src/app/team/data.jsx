@@ -456,20 +456,19 @@ const UI_UX = [
 
 const Cpp = [
     {
-        id: 2,
+        id: 1,
         name: 'Akshit Panchal',
         image: '/new_2ndyear/Akshit.jpg',
         linkedin: '',
         github: '',
     },
     {
-        id: 1,
+        id: 2,
         name: 'Praveen Singh',
         image: '/new_2ndyear/Praveen.jpg',
         linkedin: '',
         github: '',
     },
-
     {
         id: 3,
         name: 'Anmol Kumar',
