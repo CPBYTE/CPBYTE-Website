@@ -1,5 +1,8 @@
-import PlayerAnimation from '@/components/player'
 import React from 'react'
+
+import dynamic from 'next/dynamic';
+
+const PlayerAnimation = dynamic(() => import('@/components/player'), { ssr: false });
 
 const Domains = () => {
     const domains=[

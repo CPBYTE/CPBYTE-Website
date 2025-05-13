@@ -1,6 +1,9 @@
 import React from "react";
 import {Card} from "@nextui-org/react";
-import PlayerAnimation from "../player";
+
+import dynamic from "next/dynamic";
+
+const PlayerAnimation = dynamic(() => import("@/components/player"), { ssr: false });
 
 export default function CardBox({link}) {
   return (
