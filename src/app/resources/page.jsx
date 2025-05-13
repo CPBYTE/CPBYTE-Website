@@ -1,7 +1,10 @@
 import ComingSoon from '@/components/comingsoon'
 import Heading1 from '@/components/heading'
-import PlayerAnimation from '@/components/player'
+import dynamic from 'next/dynamic';
+
 import Link from 'next/link'
+
+const PlayerAnimation = dynamic(() => import('@/components/player'), { ssr: false });
 const domains=[
   {
       id:0,

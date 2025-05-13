@@ -1,10 +1,14 @@
 "use client"
 
 
-import PlayerAnimation from '@/components/player';
+// import PlayerAnimation from '@/components/player';
 import Link from 'next/link';
 import { useRouter } from 'next/navigation'
 import { TypeAnimation } from 'react-type-animation';
+
+import dynamic from 'next/dynamic';
+
+const PlayerAnimation = dynamic(() => import("@/components/player"), { ssr: false });
  
 const Hero = () => {
     const router = useRouter()
