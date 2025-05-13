@@ -140,7 +140,7 @@ const EventsTable = ({ events = [
                     <tr
                       key={event.id}
                       className="cursor-pointer hover:bg-gray-100 dark:hover:bg-gray-800"
-                      onClick={() => router.push(`/events/${event.slug}`)}
+                      onClick={() => router.push(`/events`)}
                     >
                       <td className="px-4 py-4 text-sm font-medium whitespace-nowrap">
                         <div>
