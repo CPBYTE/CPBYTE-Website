@@ -1,5 +1,8 @@
-import PlayerAnimation from "@/components/player";
 import Head from "next/head";
+
+import dynamic from "next/dynamic";
+
+const PlayerAnimation = dynamic(() => import('@/components/player'), { ssr: false });
 
 const page = () => {
   const Activities=[

@@ -22,7 +22,7 @@ export default function App() {
     { id: 2, link: "/about", name: "About" },
     { id: 3, link: "/projects", name: "Projects" },
 
-    { id: 3, link: "/events", name: "Events" },
+    { id: 4, link: "/events", name: "Events" },
 
     // { id: 4, link: "/events/code-rush", name: "CodeRush 2.0" },
     // { id: 3, link: "/bootcamp", name: "Bootcamp" },
