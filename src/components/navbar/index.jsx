@@ -24,14 +24,14 @@ export default function App() {
 
     { id: 3, link: "/events", name: "Events" },
 
-    { id: 4, link: "/events/code-rush", name: "CodeRush 2.0" },
+    // { id: 4, link: "/events/code-rush", name: "CodeRush 2.0" },
     // { id: 3, link: "/bootcamp", name: "Bootcamp" },
 
     { id: 5, link: "/resources", name: "Resources" },
     // { id: 6, link: "/blogs", name: "Blogs" },
     { id: 7, link: "/team", name: "Team" },
     { id: 8, link: "/contact", name: "Contact Us" },
-    { id: 9, link: "../registrationClosed", name: "JOIN" },
+    // { id: 9, link: "../registrationClosed", name: "JOIN" },
   ];
 
   return (

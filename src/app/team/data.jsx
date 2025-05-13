@@ -116,7 +116,7 @@ export const ThirdYear = [
         linkedin: 'https://www.linkedin.com/in/shivani-rajput-b54785232/',
         link: 'https://github.com/shivaniirajput'
     },
-    
+
     {
         id: 6,
         name: 'Vikas Kumar',
@@ -353,4 +353,192 @@ export const SecondYear = [
 
 
 
+]
+
+const WEB = [
+    {
+        id: 1,
+        name: 'Harshit Saini',
+        image: '/new_2ndyear/Harshit.jpg',
+        linkedin: 'https://www.linkedin.com/in/harshit-saini-b855b6296/',
+        github: 'https://github.com/Harshit457'
+    },
+    {
+        id: 2,
+        name: 'Sanvi Pal',
+        image: '/new_2ndyear/Sanvi.jpg',
+        linkedin: 'https://www.linkedin.com/in/sanvi-pal-7785012a1/',
+        github: 'https://github.com/palsanvi26',
+    },
+    {
+        id: 3,
+        name: 'Sidhant Pandey',
+        image: '/new_2ndyear/Sidhant.jpg',
+        linkedin: 'https://www.linkedin.com/in/sidhant-pandey-2803a5275/',
+        github: 'https://github.com/Sidhantpandey',
+    },
+    {
+        id: 4,
+        name: 'Harshita Yadav',
+        image: '/new_2ndyear/Harshita.jpg',
+        linkedin: 'https://www.linkedin.com/in/harshita-yadav-168070296/',
+        github: 'https://github.com/harshitaydv44',
+    },
+    {
+        id: 5,
+        name: 'Uttakarsh Singh',
+        image: '/new_2ndyear/Uttakarsh.jpg',
+        linkedin: 'https://www.linkedin.com/in/uttakarsh-pratap-singh/',
+        github: 'https://github.com/Uttakarsh-01',
+    },
+    {
+        id: 6,
+        name: 'Kishan Kumar Gupta',
+        image: '/new_2ndyear/Kishan.jpg',
+        linkedin: 'https://www.linkedin.com/in/kishan-kumar-gupta-423793295/',
+        github: 'https://github.com/kishangupta99',
+    },
+    {
+        id: 7,
+        name: 'Sarthak Gupta',
+        image: '/new_2ndyear/Sarthak.jpg',
+        linkedin: 'https://www.linkedin.com/in/sarthak-stranger',
+        github: 'https://github.com/XSTRANGER-7',
+    }
+]
+
+const ANDROID = [
+    {
+        id: 1,
+        name: 'Rajat Jain',
+        image: '/new_2ndyear/Rajat.jpg',
+        linkedin: 'https://in.linkedin.com/in/jainrajat254',
+        github: 'https://github.com/jainrajat254',
+    },
+    {
+        id: 2,
+        name: 'Yukti Arya',
+        image: '/new_2ndyear/yukti.jpg',
+        linkedin: 'https://www.linkedin.com/in/yukti-arya-23a154294',
+        github: 'https://github.com/yuktiarya',
+    },
+    {
+        id: 3,
+        name: 'Anurag Kanojiya',
+        image: '/new_2ndyear/Anurag.jpg',
+        linkedin: 'https://in.linkedin.com/in/anurag-kanojiya-101312286',
+        github: 'https://github.com/anuragkanojiya1',
+    },
+    {
+        id: 4,
+        name: 'Ansh sharma ',
+        image: '/new_2ndyear/Ansh.jpg',
+        linkedin: 'https://www.linkedin.com/in/ansh-sharma-6595a82b3/',
+        github: 'https://github.com/anshq31',
+    }
+]
+
+const ML = [
+    {
+        id: 1,
+        name: 'Tanishq Kumar',
+        image: '/new_2ndyear/Tanishq.jpg',
+        linkedin: 'https://www.linkedin.com/in/tanishqkumar700/',
+        github: 'https://github.com/tanishqkumar700',
+    }
+]
+
+const AR_VR = [
+    {
+        id: 1,
+        name: 'Raj',
+        image: '/new_2ndyear/Raj.jpg',
+        linkedin: 'https://www.linkedin.com/in/raj-singh-5222a5295',
+        github: 'https://github.com/rajsingh19',
+    }
+]
+
+const UI_UX = [
+    {
+        id: 1,
+        name: 'Neelakshi Kaushik',
+        image: '/new_2ndyear/Neelakshi.jpg',
+        linkedin: 'https://www.linkedin.com/in/neelakshi-kaushik-722157266/',
+        github: 'https://github.com/NEEELAKSHINIKKY',
+    }
+]
+
+const Cpp = [
+    {
+        id: 1,
+        name: 'Akshit Panchal',
+        image: '/new_2ndyear/Akshit.jpg',
+        linkedin: 'https://www.linkedin.com/in/akshit-panchal-/',
+        github: 'https://github.com/akshit9389',
+    },
+    {
+        id: 2,
+        name: 'Praveen Singh',
+        image: '/new_2ndyear/Praveen.jpg',
+        linkedin: 'https://www.linkedin.com/in/praveen-singh-004539286/',
+        github: 'https://github.com/singhpraveen77',
+    },
+    {
+        id: 3,
+        name: 'Anmol Kumar',
+        image: '/new_2ndyear/Anmol.jpg',
+        linkedin: 'https://www.linkedin.com/in/anmol-kumar-048b412a2',
+        github: 'https://github.com/AnmolK08',
+    },
+    {
+        id: 4,
+        name: 'Shudha Nidhi',
+        image: '/new_2ndyear/Shudha.jpg',
+        linkedin: 'https://www.linkedin.com/in/shudha-nidhi-soni-5833142a1/',
+        github: 'https://github.com/shudhanidhisonii',
+    },
+    {
+        id: 5,
+        name: 'Divyanshi',
+        image: '/new_2ndyear/Divyanshi.jpg',
+        linkedin: 'https://www.linkedin.com/in/divyanshivermaa',
+        github: 'https://github.com/divyanshivermaa',
+    }
+]
+
+const JAVA = [
+    {
+        id: 1,
+        name: 'Roushan Srivastav',
+        image: '/new_2ndyear/Roshan.jpg',
+        linkedin: 'http://www.linkedin.com/in/roushan-srivastav',
+        github: 'https://github.com/RoushanSri',
+    },
+    {
+        id: 2,
+        name: 'Ridhi Sharma',
+        image: '/new_2ndyear/riddhi.jpg',
+        linkedin: 'https://www.linkedin.com/in/ridhi-sharma-7a8ba2215/',
+        github: 'https://github.com/ridhisharmaa',
+    },
+    {
+        id: 3,
+        name: 'Shubh Goyal',
+        image: '/new_2ndyear/Shubh.jpg',
+        linkedin: 'https://www.linkedin.com/in/shubh-goyal-48130a255/',
+        github: 'https://github.com/Shubhgoyal-1',
+    }
+]
+
+export const Tech = [
+    { category: 'WEB', members: WEB },
+    { category: 'ANDROID', members: ANDROID },
+    { category: 'ML', members: ML },
+    { category: 'AR/VR', members: AR_VR },
+    { category: 'UI/UX', members: UI_UX }
+];
+
+export const DSA = [
+    { category: 'C++', members: Cpp },
+    { category: 'JAVA', members: JAVA },
 ]
