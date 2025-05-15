@@ -539,6 +539,6 @@ export const Tech = [
 ];
 
 export const DSA = [
-    { category: 'C++', members: Cpp },
     { category: 'JAVA', members: JAVA },
+    { category: 'C++', members: Cpp },
 ]
