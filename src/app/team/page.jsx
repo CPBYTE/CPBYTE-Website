@@ -1,12 +1,12 @@
-import { Team } from "./2025team"
+import { Team } from "./2025team";
 
 const page = () => {
   return (
     <div>
-      <title>Main Team of CPBYTE KIET | Technical Club Of KIET</title>
-      <Team/>
+      <title>Main Team of CPBYTE | Technical Club Of KIET</title>
+      <Team />
     </div>
-  )
-}
+  );
+};
 
-export default page
+export default page;

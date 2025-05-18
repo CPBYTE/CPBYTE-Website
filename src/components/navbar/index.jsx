@@ -1,4 +1,4 @@
-"use client"
+"use client";
 import React, { useState } from "react";
 import {
   Navbar,
@@ -14,7 +14,6 @@ import Link from "next/link";
 import Image from "next/image.js";
 
 export default function App() {
-  
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   const menuItems = [
@@ -59,7 +58,10 @@ export default function App() {
         </NavbarBrand>
       </NavbarContent>
 
-      <NavbarContent className="hidden sm:flex mt-3 gap-9 mb-2" justify="center">
+      <NavbarContent
+        className="hidden sm:flex mt-3 gap-9 mb-2"
+        justify="center"
+      >
         {menuItems.map((item) => (
           <NavbarItem key={item.id}>
             <Link color="foreground" href={item.link}>
@@ -71,7 +73,12 @@ export default function App() {
 
       <NavbarContent justify="end">
         <NavbarItem>
-          <Button as={Link} color="primary" href="https://chat.whatsapp.com/Lb5ZABpSEUE9Zuc4vHDTaz" variant="flat">
+          <Button
+            as={Link}
+            color="primary"
+            href="https://chat.whatsapp.com/L8o0qVdcl2d1ExKQ26KeNB"
+            variant="flat"
+          >
             JOIN
           </Button>
         </NavbarItem>
