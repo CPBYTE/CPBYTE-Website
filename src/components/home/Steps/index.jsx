@@ -30,7 +30,7 @@ const Step = () => {
               />
             </svg>
             <span className="relative">
-              JOURNEY AT <span className="text-blue-700">CPBYTE KIET</span>
+              JOURNEY AT <span className="text-blue-700">CPBYTE</span>
             </span>
           </span>{" "}
         </h2>
