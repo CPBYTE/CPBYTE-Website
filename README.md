@@ -1,8 +1,25 @@
+# CPByte Club Website
+
+This is the official website of **CPByte**, the Technical Club of **KIET Group of Institutions**, built using [Next.js](https://nextjs.org/).
+
+The website serves as the public face of the club, showcasing our **mission**, **team**, **events**, **achievements**, and more.
+
+---
+
+## 🌐 About CPByte
+
+**CPByte** is a student-led technical club focused on promoting problem-solving, competitive programming, and technical excellence within the KIET student community.
+
+---
+
+## 🚀 Getting Started (Development)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+### Prerequisites
+Ensure you have **Node.js** and **npm** (or yarn/pnpm/bun) installed.
 
-First, run the development server:
+### Start the development server:
 
 ```bash
 npm run dev
@@ -12,7 +29,7 @@ yarn dev
 pnpm dev
 # or
 bun dev
-```
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
